@@ -3,11 +3,6 @@ import React from "react";
 export default function LoadingSpinner() {
   const animationName = "myAnimation";
   const styles = {
-    position: "fixed",
-    top: "0",
-    left: "0",
-    right: "0",
-    bottom: "0",
     backgroundColor: "#fff",
     display: "flex",
     justifyContent: "center",
